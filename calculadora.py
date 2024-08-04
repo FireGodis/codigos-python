@@ -1,6 +1,8 @@
 
 import os
 
+#teste
+
 def limpar():
     # Verifica o sistema operacional
     if os.name == 'nt':  # Se for Windows
