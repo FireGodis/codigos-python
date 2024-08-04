@@ -1,7 +1,6 @@
 
 import os
 
-#teste
 
 def limpar():
     # Verifica o sistema operacional
